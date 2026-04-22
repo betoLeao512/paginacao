@@ -21,3 +21,11 @@
   background-color: #e0e0e0;
   cursor: pointer;
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
